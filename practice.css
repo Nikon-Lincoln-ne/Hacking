@@ -1,0 +1,52 @@
+input[type="text"]
+{
+    border: 1px solid green;
+    background: transparent;
+    color: green;
+    position: relative;
+    left: 1pc;
+}
+input:focus
+{
+    outline: none;
+}
+form
+{
+    position: relative;
+    top: 1pc;
+    left: 1pc;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #6af26a;
+    font-family: 'Handjet','cursive';
+    font-size: small;
+    font-size: 1pc;
+}
+#hack
+{
+    color: green;
+    background-color: transparent;
+    border: 1px solid green;
+    padding:0;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    position:relative;
+    top: 1pc;
+    left: 1pc;
+    border-radius: 0.3pc;
+
+}
+#hack:active
+{
+    border: 1px solid white;
+}
+.hack
+{
+    position: relative;
+    left: 1pc;
+}
